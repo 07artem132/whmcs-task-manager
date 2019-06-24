@@ -1,0 +1,15 @@
+div#tableTaskList_length {
+    float: left;
+}
+
+div#tableTaskList_paginate {
+    float: right;
+}
+
+div#tableTaskList_filter {
+    float: right;
+}
+
+div#tableTaskList_info {
+    float: left;
+}
